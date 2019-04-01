@@ -11,7 +11,7 @@ echo "::: ##:::: ##:::: ##: ##:::: ##: ##:::::::: ##:. ##::::::::::::::::: ##...
 echo "::: ##::::. #######::. #######:: ########: ##:::. ##:::::::::::::::: ##:::: ##: ##:::. ##: ##:::. ##:. #######::"
 echo ":::..::::::.......::::.......:::........::..:::::..:::::::::::::::::..:::::..::..:::::..::..:::::..:::.......:::"
 echo ""
-echo -e "\033[1;32mSeja bem vindo ao ToolX_ArcherT2U!\033[0m"
+echo -e "\033[1;32mSeja bem vindo ao Social_Mapper_Script_Install.sh!\033[0m"
 echo -e "\033[1;32mLinkedin:\033[0m https://www.linkedin.com/in/thalles-canela/"
 echo -e "\033[1;32mYouTube: \033[0m https://www.youtube.com/c/aXR6CyberSecurity"
 echo -e "\033[1;32mFacebook:\033[0m https://www.facebook.com/axr6PenTest"
