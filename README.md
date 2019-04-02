@@ -16,3 +16,5 @@ Padim:    https://www.padrim.com.br/aXR6CyberSecurity <br>
 2 - chmod 777 Social_Mapper_Script_Install.sh
 3 - ./Social_Mapper_Script_Install.sh
 ```
+# Mais explicações no YouTube:
+[![#InstallFEST[aXR6] - Instalando o Social Mapper via Script automatizado!!](https://i.imgur.com/HvEIByC.png)](https://www.youtube.com/watch?v=OhJ5bEUxj-w)
